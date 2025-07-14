@@ -63,7 +63,7 @@ From organizing tasks as a virtual assistant to designing intuitive UI experienc
 ## 🧩 Try My Mini Game: Tech Stack Match
 
 Want to test your memory while learning tech tools? 🧠  
-Try it live here 👉 **[Tech Stack Match – Play Now](#)** 🎮  
+Try it live here 👉 **[Tech Stack Match – Play Now](https://MarkMMutunga.github.io/tech-stack-match)** 🎮  
 
 A memory matching game featuring popular tech icons! Flip the cards and match the pairs.  
 Made using HTML5 + CSS3 + JavaScript with responsive design and smooth animations.  
@@ -86,7 +86,7 @@ A cybersecurity awareness and reporting application focused on digital safety ed
 Interactive memory matching game featuring tech tool icons with smooth animations.
 - **Tech Stack**: HTML5, CSS3, JavaScript
 - **Features**: Responsive grid layout, CSS transitions, Interactive gameplay, Tech-themed icons
-- 🎯 [Play Live Demo](#) | ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/MarkMMutunga/tech-stack-match?style=social)
+- 🎯 [Play Live Demo](https://MarkMMutunga.github.io/tech-stack-match) | ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/MarkMMutunga/tech-stack-match?style=social)
 
 ## 🎓 Skills & Expertise
 - 🎨 **Frontend Development**: HTML5, CSS3, JavaScript, React
