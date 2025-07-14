@@ -41,23 +41,23 @@ From organizing tasks as a virtual assistant to designing intuitive UI experienc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markmiki03&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmiki03&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkMMutunga&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMMutunga&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
 ## 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markmiki03&theme=gruvbox" alt="markmiki03" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkMMutunga&theme=gruvbox" alt="MarkMMutunga" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=markmiki03&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarkMMutunga&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markmiki03&theme=gruvbox" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkMMutunga&theme=gruvbox" />
 </div>
 
 ## 🧩 Try My Mini Game: Tech Stack Match
@@ -76,17 +76,17 @@ Perfect way to combine fun with frontend development skills! 😄
 
 ## 🌟 Featured Projects
 
-### 🚀 [SafeNet Shield](https://github.com/markmiki03/safenet-shield)
+### 🚀 [SafeNet Shield](https://github.com/MarkMMutunga/safenet-shield)
 A cybersecurity awareness and reporting application focused on digital safety education.
 - **Tech Stack**: React, Firebase, JavaScript
 - **Features**: Cybersecurity awareness, Incident reporting, Educational resources
-- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/markmiki03/safenet-shield?style=social)
+- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/MarkMMutunga/safenet-shield?style=social)
 
-### 🎮 [Tech Stack Match Game](https://github.com/markmiki03/tech-stack-match)
+### 🎮 [Tech Stack Match Game](https://github.com/MarkMMutunga/tech-stack-match)
 Interactive memory matching game featuring tech tool icons with smooth animations.
 - **Tech Stack**: HTML5, CSS3, JavaScript
 - **Features**: Responsive grid layout, CSS transitions, Interactive gameplay, Tech-themed icons
-- 🎯 [Play Live Demo](#) | ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/markmiki03/tech-stack-match?style=social)
+- 🎯 [Play Live Demo](#) | ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/MarkMMutunga/tech-stack-match?style=social)
 
 ## 🎓 Skills & Expertise
 - 🎨 **Frontend Development**: HTML5, CSS3, JavaScript, React
@@ -123,7 +123,7 @@ Interactive memory matching game featuring tech tool icons with smooth animation
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=markmiki03&label=Profile%20views&color=0e75b6&style=flat" alt="markmiki03" />
+  <img src="https://komarev.com/ghpvc/?username=MarkMMutunga&label=Profile%20views&color=0e75b6&style=flat" alt="MarkMMutunga" />
 </div>
 
 <div align="center">
