@@ -11,7 +11,7 @@ I'm a passionate frontend developer focused on creating accessible, responsive, 
 
 From organizing tasks as a virtual assistant to designing intuitive UI experiences, I love building tech that serves people—especially in digital safety and education.
 
-- 🔭 Currently working on: **SafeNet Shield** – a cybersecurity awareness & reporting app
+- 🔭 Currently working on: **Salama** – a awareness & reporting app
 - 🎓 Learning: TypeScript, Firebase, Kotlin for Android, UI/UX animation
 - 🌱 Always exploring ways to merge design, accessibility, and function
 - 💬 Ask me about **Frontend Development, React, UI/UX Design, Digital Safety**
