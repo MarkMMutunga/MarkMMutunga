@@ -47,7 +47,7 @@ From organizing tasks as a virtual assistant to designing intuitive UI experienc
 
 ## 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkMMutunga&theme=gruvbox" alt="MarkMMutunga" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=MarkMMutunga&theme=gruvbox" alt="MarkMMutunga" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -78,7 +78,7 @@ Perfect way to combine fun with frontend development skills! 😄
 
 ### 🚀 [SafeNet Shield](https://github.com/MarkMMutunga/safenet-shield)
 A cybersecurity awareness and reporting application focused on digital safety education.
-- **Tech Stack**: React, Firebase, JavaScript
+- **Tech Stack**: Kotlin and Firebase
 - **Features**: Cybersecurity awareness, Incident reporting, Educational resources
 - ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/MarkMMutunga/safenet-shield?style=social)
 
