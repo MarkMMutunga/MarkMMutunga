@@ -47,7 +47,7 @@ From organizing tasks as a virtual assistant to designing intuitive UI experienc
 
 ## 🔥 Streak Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?username=MarkMMutunga&theme=gruvbox&hide_border=false" alt="MarkMMutunga's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=MarkMMutunga&theme=gruvbox" alt="MarkMMutunga" /> 
 </div>
 
 ## 🏆 GitHub Trophies
