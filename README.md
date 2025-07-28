@@ -76,7 +76,7 @@ Perfect way to combine fun with frontend development skills! 😄
 
 ## 🌟 Featured Projects
 
-### 🚀 [SafeNet Shield](https://github.com/MarkMMutunga/safenet-shield)
+### 🚀 [SafeNet Shield](https://github.com/MarkMMutunga/SafeNet-Shield-App.git)
 A cybersecurity awareness and reporting application focused on digital safety education.
 - **Tech Stack**: Kotlin and Firebase
 - **Features**: Cybersecurity awareness, Incident reporting, Educational resources
