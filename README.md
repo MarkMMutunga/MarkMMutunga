@@ -1,7 +1,10 @@
 <div align="center">
   
   <!-- Neon Glowing Header Banner -->
-  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Mark%20Mikile%20Mutunga%20🚀&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" />
+  <img width="100%" height="2
+<br>
+
+*"When code flows like music, magic happens ✨"*s://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Mark%20Mikile%20Mutunga%20🚀&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" />
   
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Digital+Safety+Advocate+%7C+Virtual+Assistant;Building+the+Future+of+Web+Security+👨🏽‍💻" alt="Typing SVG" />
@@ -53,21 +56,44 @@ Learning_Stack:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="Musical Note" width="35" height="35" /> **VIBES & MUSIC**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="Musical Note" width="35" height="35" /> **NEURAL AUDIO MATRIX**
 
 <div align="center">
 
-### 🎵 Live Music Stream 🎵
+### ⚡ CYBERPUNK AUDIO CORE ⚡
 
-<!-- Real-time Spotify Display -->
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=qrwzpv9mq6d3sixtbh2g70fle&theme=dark" alt="Spotify Now Playing" width="350" />
-
-<br><br>
-
-<!-- Alternative Spotify Service -->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=qrwzpv9mq6d3sixtbh2g70fle&count=1" alt="Recently Played" width="350" />
-
-<br><br>
+<!-- Cyberpunk Audio Dashboard -->
+<table align="center">
+<tr>
+<td align="center" style="border: 2px solid #00F5FF; border-radius: 15px; padding: 25px;">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="50" />
+  <br><br>
+  <h3>🔊 AUDIO CORE ACTIVE</h3>
+  <br>
+  <table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Play%20button/3D/play_button_3d.png" alt="Play" width="40" />
+      <br><b>STREAMING</b>
+      <br><sub>Cyberpunk Beats</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Headphone/3D/headphone_3d.png" alt="Headphones" width="40" />
+      <br><b>QUALITY</b>
+      <br><sub>Neural Enhanced</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Microphone/3D/microphone_3d.png" alt="Mic" width="40" />
+      <br><b>MODE</b>
+      <br><sub>Deep Focus</sub>
+    </td>
+  </tr>
+  </table>
+  <br>
+  <sub>🎵 Optimized for maximum flow state</sub>
+</td>
+</tr>
+</table>
 
 <!-- Fallback: Dynamic Music Status -->
 <table align="center">
@@ -313,15 +339,16 @@ const professionalJourney = {
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="40" />
 <br><br>
 
-<!-- Multiple Spotify Widget Services -->
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=qrwzpv9mq6d3sixtbh2g70fle&theme=dark" alt="Spotify Now Playing" width="350" />
-
-<br><br>
-
-<!-- Recently Played Alternative -->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=qrwzpv9mq6d3sixtbh2g70fle&count=1&unique=true" alt="Recently Played" width="350" />
-
-<br><br>
+<!-- Live Status Indicator -->
+<table align="center">
+<tr>
+<td align="center" style="border: 2px solid #00F5FF; border-radius: 10px; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Atom%20symbol/3D/atom_symbol_3d.png" alt="Energy" width="40" />
+  <br><b>⚡ NEURAL SYNC ACTIVE</b>
+  <br><sub>🔊 Frequency: 432Hz | Flow State: ENGAGED</sub>
+</td>
+</tr>
+</table>
 
 <!-- Fallback: Audio System Status -->
 <table align="center">
