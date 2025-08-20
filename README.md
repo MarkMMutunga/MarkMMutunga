@@ -57,28 +57,26 @@ Learning_Stack:
 
 <div align="center">
 
-### 🎵 Currently Vibing To: "Love Story" by Indila 🎵
+### 🎵 Live Music Stream 🎵
 
-<!-- Spotify Album Cover Embed -->
-<a href="https://open.spotify.com/track/1LLHnIj5pNOLxWTdpip5in">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c5f78ff28a5e92b1ad6d5de1" alt="Love Story by Indila" width="300" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 245, 255, 0.5);" />
-</a>
+<!-- Real-time Spotify Display -->
+<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=qrwzpv9mq6d3sixtbh2g70fle&theme=dark" alt="Spotify Now Playing" width="350" />
 
 <br><br>
 
-<!-- Primary Spotify Widget -->
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=qrwzpv9mq6d3sixtbh2g70fle" alt="Spotify Now Playing" width="350" />
+<!-- Alternative Spotify Service -->
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=qrwzpv9mq6d3sixtbh2g70fle&count=1" alt="Recently Played" width="350" />
 
 <br><br>
 
-<!-- Alternative: Custom Music Card -->
+<!-- Fallback: Dynamic Music Status -->
 <table align="center">
 <tr>
 <td align="center" style="border: 2px solid #00F5FF; border-radius: 10px; padding: 15px;">
   <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="25" />
-  <b>🎵 Love Story</b> by <b>Indila</b>
+  <b>� Audio System Online</b>
   <br>
-  <sub>🎧 Premium Coding Soundtrack</sub>
+  <sub>💫 Ready for coding soundtrack</sub>
 </td>
 </tr>
 </table>
@@ -315,21 +313,26 @@ const professionalJourney = {
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="40" />
 <br><br>
 
-<!-- Multiple Spotify Widget Options -->
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=qrwzpv9mq6d3sixtbh2g70fle" alt="Spotify Now Playing" width="350" />
+<!-- Multiple Spotify Widget Services -->
+<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=qrwzpv9mq6d3sixtbh2g70fle&theme=dark" alt="Spotify Now Playing" width="350" />
 
 <br><br>
 
-<!-- Fallback: Beautiful Music Card -->
+<!-- Recently Played Alternative -->
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=qrwzpv9mq6d3sixtbh2g70fle&count=1&unique=true" alt="Recently Played" width="350" />
+
+<br><br>
+
+<!-- Fallback: Audio System Status -->
 <table align="center">
 <tr>
 <td align="center">
   <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Headphone/3D/headphone_3d.png" alt="Headphones" width="30" />
-  <b>Currently Vibing</b>
+  <b>Audio System</b>
   <br>
-  <sub>🎵 Love Story - Indila</sub>
+  <sub>🎵 Monitoring Live Stream</sub>
   <br>
-  <sub>💫 Coding Soundtrack Active</sub>
+  <sub>💫 Coding Mode Active</sub>
 </td>
 </tr>
 </table>
