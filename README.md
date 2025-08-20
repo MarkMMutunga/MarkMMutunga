@@ -1,131 +1,339 @@
-# 👋🏽 Hi, I'm Mark Mikile Mutunga!
-
-🎯 Frontend Developer | 🧠 Virtual Assistant | 💡 Creative Problem-Solver  
-🌍 Based in Kenya | 🧑🏽‍💻 Building SafeNet Shield | 🔗 Bridging design + code  
-
----
-
-## 🚀 About Me
-
-I'm a passionate frontend developer focused on creating accessible, responsive, and human-friendly user interfaces using **HTML, CSS, JavaScript, and React**.
-
-From organizing tasks as a virtual assistant to designing intuitive UI experiences, I love building tech that serves people—especially in digital safety and education.
-
-- 🔭 Currently working on: **Salama** – a awareness & reporting app
-- 🎓 Learning: TypeScript, Firebase, Kotlin for Android, UI/UX animation
-- 🌱 Always exploring ways to merge design, accessibility, and function
-- 💬 Ask me about **Frontend Development, React, UI/UX Design, Digital Safety**
-- 📫 How to reach me: **markmiki03@gmail.com**
-- ⚡ Fun fact: **I have a photographic memory and a growing passion for making the web safer, smarter, and more inclusive**
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Currently Learning
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-### Design & Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkMMutunga&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMMutunga&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
-
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=MarkMMutunga&theme=gruvbox" alt="MarkMMutunga" /> 
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarkMMutunga&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarkMMutunga&theme=gruvbox" />
-</div>
-
-## 🧩 Try My Mini Game: Tech Stack Match
-
-Want to test your memory while learning tech tools? 🧠  
-Try it live here 👉 **[Tech Stack Match – Play Now](https://MarkMMutunga.github.io/tech-stack-match)** 🎮  
-
-A memory matching game featuring popular tech icons! Flip the cards and match the pairs.  
-Made using HTML5 + CSS3 + JavaScript with responsive design and smooth animations.  
-Perfect way to combine fun with frontend development skills! 😄
-
-## 🎯 Current Focus
-- 🔭 Working on: **SafeNet Shield** – a cybersecurity awareness & reporting app
-- 📚 Learning: **TypeScript, Firebase, Kotlin for Android, UI/UX animation**
-- 🎯 Goals: **Making the web safer, smarter, and more inclusive**
-
-## 🌟 Featured Projects
-
-### 🚀 [SafeNet Shield](https://github.com/MarkMMutunga/SafeNet-Shield-App.git)
-A cybersecurity awareness and reporting application focused on digital safety education.
-- **Tech Stack**: Kotlin and Firebase
-- **Features**: Cybersecurity awareness, Incident reporting, Educational resources
-- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/MarkMMutunga/safenet-shield?style=social)
-
-### 🎮 [Tech Stack Match Game](https://github.com/MarkMMutunga/tech-stack-match)
-Interactive memory matching game featuring tech tool icons with smooth animations.
-- **Tech Stack**: HTML5, CSS3, JavaScript
-- **Features**: Responsive grid layout, CSS transitions, Interactive gameplay, Tech-themed icons
-- 🎯 [Play Live Demo](https://MarkMMutunga.github.io/tech-stack-match) | ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/MarkMMutunga/tech-stack-match?style=social)
-
-## 🎓 Skills & Expertise
-- 🎨 **Frontend Development**: HTML5, CSS3, JavaScript, React
-- 🧠 **Virtual Assistant**: Task organization, project management
-- 🔒 **Digital Safety**: Cybersecurity awareness, user education
-- ♿ **Accessibility**: Creating inclusive web experiences
-- 📱 **Responsive Design**: Mobile-first, cross-browser compatibility
-
-## 📱 Connect with Me
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://markmiki03.wixsite.com/mark-mikile-mutunga)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-mutunga-227968220/)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MarkMutunga__)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markmiki03@gmail.com)
-
+  <!-- Neon Glowing Header Banner -->
+  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Mark%20Mikile%20Mutunga%20🚀&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" />
+  
+  <!-- Animated Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Digital+Safety+Advocate+%7C+Virtual+Assistant;Building+the+Future+of+Web+Security+👨🏽‍💻" alt="Typing SVG" />
+  
+  <!-- Glowing Separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
 </div>
 
-## 💼 Experience
-- **Frontend Developer** - Freelance (2023 - Present)
-  - Building responsive, accessible web applications with React and JavaScript
-  - Creating user-friendly interfaces focused on digital safety and education
-- **Virtual Assistant** - Various Clients (2022 - Present)
-  - Task organization, project management, and administrative support
-  - Bridging communication between teams and stakeholders
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" /> **ABOUT_ME.exe**
 
-## 📊 Weekly Coding Time
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+```javascript
+const markMutunga = {
+    location: "🌍 Kenya",
+    currentFocus: "🔒 SafeNet Shield - Cybersecurity Awareness App",
+    mission: "Making the web safer, smarter, and more inclusive",
+    superpower: "📸 Photographic memory + Creative problem-solving",
+    workingOn: ["React Applications", "Digital Safety Solutions", "UI/UX Innovation"],
+    collaboration: "Always open for innovative projects! 🚀"
+};
+```
 
-## 🎨 Creative Corner
-> "I have a photographic memory and a growing passion for making the web safer, smarter, and more inclusive." - Mark Mikile Mutunga
+<details>
+<summary><b>🎯 Fun Facts & Secrets</b></summary>
+<br>
+
+- 🧠 **Photographic Memory**: I can visualize code structures like 3D blueprints
+- 🎮 **Tech Gaming**: Created memory games to make learning tech stacks fun
+- 🎵 **Code & Music**: I code better with Indila's "Love Story" on repeat
+- 🌱 **Green Coder**: Passionate about sustainable digital solutions
+- ⚡ **Speed Learner**: Can adapt to new frameworks in record time
+
+</details>
+
+<details>
+<summary><b>📚 Currently Learning & Exploring</b></summary>
+<br>
+
+```yaml
+Learning_Stack:
+  Frontend: ["TypeScript", "Next.js", "Three.js for 3D"]
+  Mobile: ["Kotlin", "React Native", "Flutter"]
+  Backend: ["Firebase", "Node.js", "GraphQL"]
+  Design: ["UI/UX Animation", "Figma Advanced", "3D Design"]
+  Other: ["Cybersecurity", "AI Integration", "Web3"]
+```
+
+</details>
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="Musical Note" width="35" height="35" /> **VIBES & MUSIC**
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarkMMutunga&label=Profile%20views&color=0e75b6&style=flat" alt="MarkMMutunga" />
+
+### 🎵 Currently Vibing To: "Love Story" by Indila 🎵
+
+<a href="https://open.spotify.com/track/1LLHnIj5pNOLxWTdpip5in">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+</a>
+
+*"When code flows like music, magic happens ✨"*
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> **TECH ARSENAL**
+
+<div align="center">
+
+### 💫 **Core Technologies**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,figma&theme=dark" alt="Tech Stack" />
+
+### 🔥 **Learning & Exploring**
+
+<img src="https://skillicons.dev/icons?i=kotlin,firebase,nodejs,nextjs,flutter,threejs&theme=dark" alt="Learning Stack" />
+
+### ⚡ **Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,photoshop&theme=dark" alt="Tools" />
+
 </div>
 
 <div align="center">
-  <h3>Show some love❤️ by starring some of the repositories!</h3>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" /> **PERFORMANCE METRICS**
+
+<div align="center">
+
+### 🌟 **GitHub Analytics Dashboard**
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarkMMutunga&show_icons=true&count_private=true&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&bg_color=0d1117" alt="Mark's GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMMutunga&layout=compact&hide_border=true&title_color=00F5FF&text_color=c9d1d9&bg_color=0d1117" />
+
+### 🔥 **Contribution Snake**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkMMutunga/MarkMMutunga/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkMMutunga/MarkMMutunga/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarkMMutunga/MarkMMutunga/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 🏆 **Achievement Gallery**
+
+<img src="https://github-profile-trophy.vercel.app/?username=MarkMMutunga&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+### ⚡ **Coding Streaks**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=MarkMMutunga&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="Mark's Streak" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" height="35" /> **FEATURED PROJECTS**
+
+<div align="center">
+
+### 🛡️ **SafeNet Shield** - *Cybersecurity Awareness Revolution*
+
+<table>
+<tr>
+<td width="50%">
+
+**🚀 The Vision**
+> A comprehensive cybersecurity awareness and reporting application designed to make digital safety accessible to everyone.
+
+**✨ Key Features**
+- � **Real-time Threat Detection**
+- 📚 **Interactive Security Education**
+- 📊 **Community Reporting System**
+- �️ **Personal Safety Dashboard**
+
+**🛠️ Tech Arsenal**
+`Kotlin` `Firebase` `Material Design` `Android Architecture Components`
+
+<a href="https://github.com/MarkMMutunga/SafeNet-Shield-App">
+  <img src="https://img.shields.io/badge/View%20Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</td>
+<td width="50%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="200" />
+</td>
+</tr>
+</table>
+
+---
+
+### 🎮 **Tech Stack Match** - *Interactive Learning Experience*
+
+<table>
+<tr>
+<td width="50%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="200" />
+</td>
+<td width="50%">
+
+**🎯 The Concept**
+> Memory matching game featuring popular tech icons with smooth animations and responsive design.
+
+**🌟 Highlights**
+- 🎨 **Stunning Visual Design**
+- ⚡ **Smooth CSS Animations**
+- 📱 **Fully Responsive Grid**
+- 🧠 **Memory Enhancement Tool**
+
+**🛠️ Built With**
+`HTML5` `CSS3` `JavaScript` `Local Storage API`
+
+<a href="https://MarkMMutunga.github.io/tech-stack-match">
+  <img src="https://img.shields.io/badge/Play%20Live%20Demo-FF6B6B?style=for-the-badge&logo=play&logoColor=white" />
+</a>
+<a href="https://github.com/MarkMMutunga/tech-stack-match">
+  <img src="https://img.shields.io/badge/Source%20Code-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" alt="Joystick" width="35" height="35" /> **MINI ARCADE ZONE**
+
+<div align="center">
+
+### �️ **Interactive Mini Games & Demos**
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://MarkMMutunga.github.io/tech-stack-match">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="60" />
+    <br><b>🎮 Tech Stack Match</b>
+    <br><sub>Memory Game</sub>
+  </a>
+</td>
+<td align="center" width="33%">
+  <a href="https://markmiki03.wixsite.com/mark-mikile-mutunga">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Portfolio" width="60" />
+    <br><b>💼 Portfolio Hub</b>
+    <br><sub>Interactive Demo</sub>
+  </a>
+</td>
+<td align="center" width="33%">
+  <a href="mailto:markmiki03@gmail.com">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Contact" width="60" />
+    <br><b>📧 Quick Contact</b>
+    <br><sub>Let's Connect</sub>
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" /> **PROFESSIONAL JOURNEY**
+
+<div align="center">
+
+```javascript
+const professionalJourney = {
+    current: {
+        role: "Frontend Developer & Digital Safety Advocate",
+        status: "Building the future of web security",
+        focus: ["React Development", "UI/UX Design", "Cybersecurity Awareness"]
+    },
+    experience: {
+        "Frontend Developer": "2023 - Present | Creating accessible, responsive web applications",
+        "Virtual Assistant": "2022 - Present | Project management & team coordination",
+        "UI/UX Designer": "2023 - Present | Crafting intuitive user experiences"
+    },
+    expertise: [
+        "🎨 Frontend Development (HTML5, CSS3, JavaScript, React)",
+        "🧠 Virtual Assistance & Project Management", 
+        "🔒 Digital Safety & Cybersecurity Awareness",
+        "♿ Web Accessibility & Inclusive Design",
+        "📱 Responsive Design & Cross-browser Compatibility"
+    ]
+};
+```
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite" width="35" height="35" /> **LIVE STATUS & ANALYTICS**
+
+<div align="center">
+
+### 📡 **Real-time Dashboard**
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarkMMutunga&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Profile Views" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/github/followers/MarkMMutunga?label=Followers&style=for-the-badge&color=00F5FF" alt="Followers" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Coding-00F5FF?style=for-the-badge" alt="Status" />
+</td>
+</tr>
+</table>
+
+### 🎵 **Currently Playing**
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k2yfrpfvakzbhqgat3ybhgbhby" alt="Spotify Recently Played" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="35" height="35" /> **CONNECT WITH THE MATRIX**
+
+<div align="center">
+  
+  <!-- Animated neon text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Let's+make+the+web+safer%2C+smarter%2C;and+more+inclusive+✨;Ready+to+collaborate%3F+🚀" alt="Footer Typing SVG" />
+  
+  <br><br>
+  
+  <!-- Glowing Social Media Icons -->
+  <table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://markmiki03.wixsite.com/mark-mikile-mutunga">
+        <img src="https://img.shields.io/badge/🌐%20Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/mark-mutunga-227968220/">
+        <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://x.com/MarkMutunga__">
+        <img src="https://img.shields.io/badge/🐦%20X%20(Twitter)-1DA1F2?style=for-the-badge&logoColor=white" alt="X" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:markmiki03@gmail.com">
+        <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logoColor=white" alt="Email" />
+      </a>
+    </td>
+  </tr>
+  </table>
+  
+  <br>
+  
+  <!-- Holographic Display Effect -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=120&section=footer&animation=twinkling" width="100%" />
+  
+  <!-- Final Quote -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" />
+    "Code is poetry, security is art, and innovation is the bridge between dreams and reality"
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" />
+  </h3>
+  
+  <sub>⚡ Powered by passion, fueled by coffee, driven by purpose ⚡</sub>
+
+</div>
+
+<!-- Floating Particles Effect -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
