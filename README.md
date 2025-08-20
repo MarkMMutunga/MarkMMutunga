@@ -1,7 +1,9 @@
 <div align="center">
   
   <!-- Neon Glowing Header Banner -->
-  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Mark%20Mikile%20Mutunga%20🚀&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" />
+  <img<br>
+
+*"When code flows like music, magic happens ✨"* height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Mark%20Mikile%20Mutunga%20🚀&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" />
   
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Digital+Safety+Advocate+%7C+Virtual+Assistant;Building+the+Future+of+Web+Security+👨🏽‍💻" alt="Typing SVG" />
@@ -60,7 +62,7 @@ Learning_Stack:
 ### 🎵 LIVE SPOTIFY FEED 🎵
 
 <!-- Primary Spotify Now Playing -->
-<a href="https://open.spotify.com/user/qrwzpv9mq6d3sixtbh2g70fle">
+<a href="https://open.spotify.com/user/qrwzpv9mq6d3sixtbh2g70fle?si=688061ec60794152">
   <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />
 </a>
 
@@ -68,24 +70,6 @@ Learning_Stack:
 
 <!-- Spotify Recently Played -->
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=qrwzpv9mq6d3sixtbh2g70fle&count=3" alt="Recently Played" width="400" />
-
-<br><br>
-
-<!-- Alternative Service -->
-<img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Playing" width="400" />
-
-<br><br>
-
-<!-- Backup if nothing works -->
-<table align="center">
-<tr>
-<td align="center" style="border: 2px solid #1DB954; border-radius: 10px; padding: 15px;">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="30" />
-  <br><b>🎧 Currently Jamming</b>
-  <br><sub>🎵 Check my <a href="https://open.spotify.com/user/qrwzpv9mq6d3sixtbh2g70fle">Spotify Profile</a></sub>
-</td>
-</tr>
-</table>
 
 <!-- Fallback: Dynamic Music Status -->
 <table align="center">
@@ -326,35 +310,6 @@ const professionalJourney = {
 
 <br>
 
-### 🎵 **Audio Stream**
-
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="40" />
-<br><br>
-
-<!-- Live Status Indicator -->
-<table align="center">
-<tr>
-<td align="center" style="border: 2px solid #00F5FF; border-radius: 10px; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Atom%20symbol/3D/atom_symbol_3d.png" alt="Energy" width="40" />
-  <br><b>⚡ NEURAL SYNC ACTIVE</b>
-  <br><sub>🔊 Frequency: 432Hz | Flow State: ENGAGED</sub>
-</td>
-</tr>
-</table>
-
-<!-- Fallback: Audio System Status -->
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Headphone/3D/headphone_3d.png" alt="Headphones" width="30" />
-  <b>Audio System</b>
-  <br>
-  <sub>🎵 Monitoring Live Stream</sub>
-  <br>
-  <sub>💫 Coding Mode Active</sub>
-</td>
-</tr>
-</table>
 
 </div>
 
