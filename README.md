@@ -11,7 +11,7 @@ I'm a passionate frontend developer focused on creating accessible, responsive, 
 
 From organizing tasks as a virtual assistant to designing intuitive UI experiences, I love building tech that serves people—especially in digital safety and education.
 
-- 🔭 Currently working on: **SafeNet Shield** – a cybersecurity awareness & reporting app
+- 🔭 Currently working on: **Salama** – a awareness & reporting app
 - 🎓 Learning: TypeScript, Firebase, Kotlin for Android, UI/UX animation
 - 🌱 Always exploring ways to merge design, accessibility, and function
 - 💬 Ask me about **Frontend Development, React, UI/UX Design, Digital Safety**
@@ -47,7 +47,7 @@ From organizing tasks as a virtual assistant to designing intuitive UI experienc
 
 ## 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkMMutunga&theme=gruvbox" alt="MarkMMutunga" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=MarkMMutunga&theme=gruvbox" alt="MarkMMutunga" /> 
 </div>
 
 ## 🏆 GitHub Trophies
@@ -76,9 +76,9 @@ Perfect way to combine fun with frontend development skills! 😄
 
 ## 🌟 Featured Projects
 
-### 🚀 [SafeNet Shield](https://github.com/MarkMMutunga/safenet-shield)
+### 🚀 [SafeNet Shield](https://github.com/MarkMMutunga/SafeNet-Shield-App.git)
 A cybersecurity awareness and reporting application focused on digital safety education.
-- **Tech Stack**: React, Firebase, JavaScript
+- **Tech Stack**: Kotlin and Firebase
 - **Features**: Cybersecurity awareness, Incident reporting, Educational resources
 - ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/MarkMMutunga/safenet-shield?style=social)
 
