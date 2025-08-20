@@ -1,9 +1,9 @@
 <div align="center">
   
   <!-- Neon Glowing Header Banner -->
-  <img widt<br>
+  <img width="10<br>
 
-*"When code flows like music, magic happens ✨"*ht="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Mark%20Mikile%20Mutunga%20🚀&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" />
+*"When code flows like music, magic happens ✨"*00" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Mark%20Mikile%20Mutunga%20🚀&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" />
   
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Digital+Safety+Advocate+%7C+Virtual+Assistant;Building+the+Future+of+Web+Security+👨🏽‍💻" alt="Typing SVG" />
@@ -61,20 +61,25 @@ Learning_Stack:
 
 ### 🎵 LIVE SPOTIFY FEED 🎵
 
-<!-- Primary Spotify Now Playing with Username -->
+<!-- Try Novatorem Service (Most Reliable) -->
+<img src="https://novatorem-beta.vercel.app/api/spotify" alt="Current Spotify Song" width="400" />
+
+<br><br>
+
+<!-- Alternative with Your Username -->
+<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=qrwzpv9mq6d3sixtbh2g70fle&theme=dark" alt="Spotify Now Playing" width="400" />
+
+<br><br>
+
+<!-- Third Alternative with Different Service -->
+<img src="https://spotify-readme-theta.vercel.app/api/spotify-playing?username=qrwzpv9mq6d3sixtbh2g70fle" alt="Spotify Playing" width="400" />
+
+<br><br>
+
+<!-- Direct Spotify Link as Fallback -->
 <a href="https://open.spotify.com/user/qrwzpv9mq6d3sixtbh2g70fle?si=688061ec60794152">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=qrwzpv9mq6d3sixtbh2g70fle" alt="Spotify Now Playing" width="400" />
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
 </a>
-
-<br><br>
-
-<!-- Alternative Spotify Service -->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=qrwzpv9mq6d3sixtbh2g70fle&count=1" alt="Recently Played" width="400" />
-
-<br><br>
-
-<!-- Third Alternative -->
-<img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="400" />
 
 <!-- Fallback: Dynamic Music Status -->
 <table align="center">
