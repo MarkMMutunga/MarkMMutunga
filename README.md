@@ -1,9 +1,7 @@
 <div align="center">
   
   <!-- Neon Glowing Header Banner -->
-  <img width="10<br>
-
-*"When code flows like music, magic happens ✨"*00" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Mark%20Mikile%20Mutunga%20🚀&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" />
+  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Mark%20Mikile%20Mutunga%20🚀&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" />
   
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Digital+Safety+Advocate+%7C+Virtual+Assistant;Building+the+Future+of+Web+Security+👨🏽‍💻" alt="Typing SVG" />
@@ -59,7 +57,7 @@ Learning_Stack:
 
 <div align="center">
 
-### 🎵 LIVE SPOTIFY FEED 🎵
+### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="3D Music" width="25" /> LIVE SPOTIFY FEED <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="3D Music" width="25" />
 
 <!-- Try Novatorem Service (Most Reliable) -->
 <img src="https://novatorem-beta.vercel.app/api/spotify" alt="Current Spotify Song" width="400" />
