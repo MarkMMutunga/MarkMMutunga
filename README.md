@@ -67,7 +67,7 @@ Learning_Stack:
 <br><br>
 
 <!-- Primary Spotify Widget -->
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=qrwzpv9mq6d3sixtbh2g70fle" alt="Spotify Now Playing" width="350" />
 
 <br><br>
 
@@ -316,7 +316,7 @@ const professionalJourney = {
 <br><br>
 
 <!-- Multiple Spotify Widget Options -->
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=qrwzpv9mq6d3sixtbh2g70fle" alt="Spotify Now Playing" width="350" />
 
 <br><br>
 
