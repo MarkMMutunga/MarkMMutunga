@@ -57,37 +57,32 @@ Learning_Stack:
 
 <div align="center">
 
-### ⚡ CYBERPUNK AUDIO CORE ⚡
+### 🎵 LIVE SPOTIFY FEED 🎵
 
-<!-- Cyberpunk Audio Dashboard -->
+<!-- Primary Spotify Now Playing -->
+<a href="https://open.spotify.com/user/qrwzpv9mq6d3sixtbh2g70fle">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />
+</a>
+
+<br><br>
+
+<!-- Spotify Recently Played -->
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=qrwzpv9mq6d3sixtbh2g70fle&count=3" alt="Recently Played" width="400" />
+
+<br><br>
+
+<!-- Alternative Service -->
+<img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Playing" width="400" />
+
+<br><br>
+
+<!-- Backup if nothing works -->
 <table align="center">
 <tr>
-<td align="center" style="border: 2px solid #00F5FF; border-radius: 15px; padding: 25px;">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="50" />
-  <br><br>
-  <h3>🔊 AUDIO CORE ACTIVE</h3>
-  <br>
-  <table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Play%20button/3D/play_button_3d.png" alt="Play" width="40" />
-      <br><b>STREAMING</b>
-      <br><sub>Cyberpunk Beats</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Headphone/3D/headphone_3d.png" alt="Headphones" width="40" />
-      <br><b>QUALITY</b>
-      <br><sub>Neural Enhanced</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Microphone/3D/microphone_3d.png" alt="Mic" width="40" />
-      <br><b>MODE</b>
-      <br><sub>Deep Focus</sub>
-    </td>
-  </tr>
-  </table>
-  <br>
-  <sub>🎵 Optimized for maximum flow state</sub>
+<td align="center" style="border: 2px solid #1DB954; border-radius: 10px; padding: 15px;">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="30" />
+  <br><b>🎧 Currently Jamming</b>
+  <br><sub>🎵 Check my <a href="https://open.spotify.com/user/qrwzpv9mq6d3sixtbh2g70fle">Spotify Profile</a></sub>
 </td>
 </tr>
 </table>
