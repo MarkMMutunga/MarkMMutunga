@@ -311,30 +311,34 @@ const professionalJourney = {
   
   <br><br>
   
-  <!-- Futuristic Social Media Icons -->
+  <!-- Futuristic 3D Social Media Icons -->
   <table>
   <tr>
     <td align="center" width="25%">
       <a href="https://markmiki03.wixsite.com/mark-mikile-mutunga">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00F5FF" alt="Portfolio" />
+        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20with%20meridians/3D/globe_with_meridians_3d.png" alt="Portfolio" width="60" />
+        <br><b>Portfolio</b>
         <br><sub>🌐 Digital Showcase</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.linkedin.com/in/mark-mutunga-227968220/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn" />
+        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" alt="LinkedIn" width="60" />
+        <br><b>LinkedIn</b>
         <br><sub>💼 Professional Network</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://x.com/MarkMutunga__">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00F5FF" alt="X" />
+        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bird/3D/bird_3d.png" alt="X" width="60" />
+        <br><b>X (Twitter)</b>
         <br><sub>🐦 Tech Updates</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="mailto:markmiki03@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email" />
+        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/E-mail/3D/e-mail_3d.png" alt="Gmail" width="60" />
+        <br><b>Gmail</b>
         <br><sub>📧 Direct Contact</sub>
       </a>
     </td>
