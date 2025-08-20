@@ -127,5 +127,5 @@ Interactive memory matching game featuring tech tool icons with smooth animation
 </div>
 
 <div align="center">
-  <h3>Show some ❤️ by starring some of the repositories!</h3>
+  <h3>Show some love❤️ by starring some of the repositories!</h3>
 </div>
