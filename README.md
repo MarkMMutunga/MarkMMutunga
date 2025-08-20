@@ -53,28 +53,6 @@ Learning_Stack:
 
 ---
 
-
-
-
-
-
-
-
-
-<tr>
-<td align="center" style="border: 2px solid #00F5FF; border-radius: 10px; padding: 15px;">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="25" />
-  <b>� Audio System Online</b>
-  <br>
-  <sub>💫 Ready for coding soundtrack</sub>
-</td>
-</tr>
-</table>
-
-
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> **TECH ARSENAL**
 
 <div align="center">
