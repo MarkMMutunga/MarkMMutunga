@@ -311,63 +311,39 @@ const professionalJourney = {
   
   <br><br>
   
-  <!-- Futuristic 3D Animated Social Media Icons -->
+  <!-- Futuristic Animated Social Media Icons -->
   <table>
   <tr>
     <td align="center" width="25%">
       <a href="https://markmiki03.wixsite.com/mark-mikile-mutunga">
-        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20with%20meridians/3D/globe_with_meridians_3d.png" alt="Portfolio" width="60" style="animation: spin 3s linear infinite;" />
+        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Portfolio" width="60" />
         <br><b>Portfolio</b>
         <br><sub>🌐 Digital Showcase</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.linkedin.com/in/mark-mutunga-227968220/">
-        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" alt="LinkedIn" width="60" style="animation: bounce 2s ease-in-out infinite;" />
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" />
         <br><b>LinkedIn</b>
         <br><sub>💼 Professional Network</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://x.com/MarkMutunga__">
-        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bird/3D/bird_3d.png" alt="X" width="60" style="animation: float 2.5s ease-in-out infinite;" />
+        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="X" width="60" />
         <br><b>X (Twitter)</b>
         <br><sub>🐦 Tech Updates</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="mailto:markmiki03@gmail.com">
-        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/E-mail/3D/e-mail_3d.png" alt="Gmail" width="60" style="animation: pulse 2s ease-in-out infinite;" />
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" alt="Gmail" width="60" />
         <br><b>Gmail</b>
         <br><sub>📧 Direct Contact</sub>
       </a>
     </td>
   </tr>
   </table>
-
-  <!-- CSS Animations for the icons -->
-  <style>
-    @keyframes spin {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-    
-    @keyframes bounce {
-      0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-      40% { transform: translateY(-10px); }
-      60% { transform: translateY(-5px); }
-    }
-    
-    @keyframes float {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-8px); }
-    }
-    
-    @keyframes pulse {
-      0%, 100% { transform: scale(1); }
-      50% { transform: scale(1.1); }
-    }
-  </style>
   
   <br>
   
