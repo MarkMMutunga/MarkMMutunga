@@ -202,7 +202,7 @@ Learning_Stack:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" alt="Joystick" width="35" height="35" /> **MINI ARCADE ZONE**
+## 🎮 **MINI ARCADE ZONE**
 
 <div align="center">
 
@@ -212,23 +212,23 @@ Learning_Stack:
 <tr>
 <td align="center" width="33%">
   <a href="https://MarkMMutunga.github.io/tech-stack-match">
-    <img src="https://img.shields.io/badge/🎮-Tech%20Stack%20Match-FF6B6B?style=for-the-badge&logoColor=white" alt="Game" />
+    <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" alt="Game" width="80" />
     <br><b>🎮 Tech Stack Match</b>
-    <br><sub>Memory Game</sub>
+    <br><sub>Test your tech knowledge</sub>
   </a>
 </td>
 <td align="center" width="33%">
   <a href="https://markmiki03.wixsite.com/mark-mikile-mutunga">
-    <img src="https://img.shields.io/badge/💼-Portfolio%20Hub-4CAF50?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Desktop%20computer/3D/desktop_computer_3d.png" alt="Portfolio" width="80" />
     <br><b>💼 Portfolio Hub</b>
-    <br><sub>Interactive Demo</sub>
+    <br><sub>Explore my digital world</sub>
   </a>
 </td>
 <td align="center" width="33%">
   <a href="mailto:markmiki03@gmail.com">
-    <img src="https://img.shields.io/badge/📧-Quick%20Contact-2196F3?style=for-the-badge&logoColor=white" alt="Contact" />
+    <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/E-mail/3D/e-mail_3d.png" alt="Contact" width="80" />
     <br><b>📧 Quick Contact</b>
-    <br><sub>Let's Connect</sub>
+    <br><sub>Start a conversation</sub>
   </a>
 </td>
 </tr>
