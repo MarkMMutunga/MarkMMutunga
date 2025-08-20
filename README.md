@@ -311,33 +311,33 @@ const professionalJourney = {
   
   <br><br>
   
-  <!-- Futuristic Animated Social Media Icons -->
+  <!-- Futuristic 3D Social Media Icons -->
   <table>
   <tr>
     <td align="center" width="25%">
       <a href="https://markmiki03.wixsite.com/mark-mikile-mutunga">
-        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Portfolio" width="60" />
+        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20with%20meridians/3D/globe_with_meridians_3d.png" alt="Portfolio" width="60" />
         <br><b>Portfolio</b>
         <br><sub>🌐 Digital Showcase</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.linkedin.com/in/mark-mutunga-227968220/">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" />
+        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" alt="LinkedIn" width="60" />
         <br><b>LinkedIn</b>
         <br><sub>💼 Professional Network</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://x.com/MarkMutunga__">
-        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="X" width="60" />
+        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bird/3D/bird_3d.png" alt="X" width="60" />
         <br><b>X (Twitter)</b>
         <br><sub>🐦 Tech Updates</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="mailto:markmiki03@gmail.com">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" alt="Gmail" width="60" />
+        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/E-mail/3D/e-mail_3d.png" alt="Gmail" width="60" />
         <br><b>Gmail</b>
         <br><sub>📧 Direct Contact</sub>
       </a>
