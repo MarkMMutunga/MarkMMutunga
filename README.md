@@ -59,13 +59,14 @@ Learning_Stack:
 
 ### 🎵 Currently Vibing To: "Love Story" by Indila 🎵
 
+<!-- Spotify Album Cover Embed -->
 <a href="https://open.spotify.com/track/1LLHnIj5pNOLxWTdpip5in">
-  <img src="https://img.shields.io/badge/🎵%20Love%20Story%20-%20Indila-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Love Story by Indila" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c5f78ff28a5e92b1ad6d5de1" alt="Love Story by Indila" width="300" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 245, 255, 0.5);" />
 </a>
 
 <br><br>
 
-<!-- Alternative Music Widget -->
+<!-- Dynamic Spotify Now Playing Widget -->
 <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
 
 *"When code flows like music, magic happens ✨"*
@@ -80,36 +81,15 @@ Learning_Stack:
 
 ### 💫 **Core Technologies**
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,figma&theme=dark" alt="Tech Stack" />
 
 ### 🔥 **Learning & Exploring**
 
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=7F52FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000" alt="Three.js" />
-</p>
+<img src="https://skillicons.dev/icons?i=kotlin,firebase,nodejs,nextjs,flutter,threejs&theme=dark" alt="Learning Stack" />
 
 ### ⚡ **Tools & Platforms**
 
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF" alt="Photoshop" />
-</p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,photoshop&theme=dark" alt="Tools" />
 
 </div>
 
@@ -310,7 +290,13 @@ const professionalJourney = {
 
 ### 🎵 **Currently Playing**
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=true" alt="Spotify Recently Played" />
+<a href="https://open.spotify.com/user/spotify">
+  <img src="https://spotify-github-profile.kittinanx.com/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+</a>
+
+<!-- Fallback if Spotify widget doesn't work -->
+<br>
+<img src="https://img.shields.io/badge/🎵%20Now%20Playing-Love%20Story%20by%20Indila-1DB954?style=flat&logo=spotify&logoColor=white" alt="Currently Playing" />
 
 </div>
 
@@ -325,27 +311,31 @@ const professionalJourney = {
   
   <br><br>
   
-  <!-- Glowing Social Media Icons -->
+  <!-- Futuristic Social Media Icons -->
   <table>
   <tr>
     <td align="center" width="25%">
       <a href="https://markmiki03.wixsite.com/mark-mikile-mutunga">
-        <img src="https://img.shields.io/badge/🌐%20Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00F5FF" alt="Portfolio" />
+        <br><sub>🌐 Digital Showcase</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.linkedin.com/in/mark-mutunga-227968220/">
-        <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn" />
+        <br><sub>💼 Professional Network</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://x.com/MarkMutunga__">
-        <img src="https://img.shields.io/badge/🐦%20X%20(Twitter)-1DA1F2?style=for-the-badge&logoColor=white" alt="X" />
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00F5FF" alt="X" />
+        <br><sub>🐦 Tech Updates</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="mailto:markmiki03@gmail.com">
-        <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logoColor=white" alt="Email" />
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email" />
+        <br><sub>📧 Direct Contact</sub>
       </a>
     </td>
   </tr>
