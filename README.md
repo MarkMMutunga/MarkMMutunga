@@ -66,8 +66,22 @@ Learning_Stack:
 
 <br><br>
 
-<!-- Dynamic Spotify Now Playing Widget -->
+<!-- Primary Spotify Widget -->
 <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+
+<br><br>
+
+<!-- Alternative: Custom Music Card -->
+<table align="center">
+<tr>
+<td align="center" style="border: 2px solid #00F5FF; border-radius: 10px; padding: 15px;">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="25" />
+  <b>🎵 Love Story</b> by <b>Indila</b>
+  <br>
+  <sub>🎧 Premium Coding Soundtrack</sub>
+</td>
+</tr>
+</table>
 
 *"When code flows like music, magic happens ✨"*
 
@@ -299,8 +313,26 @@ const professionalJourney = {
 ### 🎵 **Audio Stream**
 
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="40" />
-<br>
-<img src="https://spotify-github-profile.kittinanx.com/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+<br><br>
+
+<!-- Multiple Spotify Widget Options -->
+<img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+
+<br><br>
+
+<!-- Fallback: Beautiful Music Card -->
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Headphone/3D/headphone_3d.png" alt="Headphones" width="30" />
+  <b>Currently Vibing</b>
+  <br>
+  <sub>🎵 Love Story - Indila</sub>
+  <br>
+  <sub>💫 Coding Soundtrack Active</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
