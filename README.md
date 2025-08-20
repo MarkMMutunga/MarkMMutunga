@@ -268,35 +268,39 @@ const professionalJourney = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite" width="35" height="35" /> **LIVE STATUS & ANALYTICS**
+## 📡 **LIVE STATUS & ANALYTICS**
 
 <div align="center">
 
-### 📡 **Real-time Dashboard**
+### � **Cyberpunk Dashboard**
 
 <table>
 <tr>
-<td align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarkMMutunga&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Profile Views" />
+<td align="center" width="33%">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Eyes/3D/eyes_3d.png" alt="Views" width="50" />
+  <br><b>Profile Views</b>
+  <br><img src="https://komarev.com/ghpvc/?username=MarkMMutunga&color=00F5FF&style=flat-square&label=" alt="Views Count" />
 </td>
-<td align="center">
-  <img src="https://img.shields.io/github/followers/MarkMMutunga?label=Followers&style=for-the-badge&color=00F5FF" alt="Followers" />
+<td align="center" width="33%">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Busts%20in%20silhouette/3D/busts_in_silhouette_3d.png" alt="Followers" width="50" />
+  <br><b>Network Size</b>
+  <br><img src="https://img.shields.io/github/followers/MarkMMutunga?color=00F5FF&style=flat-square&label=" alt="Followers" />
 </td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Status-Actively%20Coding-00F5FF?style=for-the-badge" alt="Status" />
+<td align="center" width="33%">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Green%20circle/3D/green_circle_3d.png" alt="Status" width="50" />
+  <br><b>System Status</b>
+  <br><sub>🟢 ACTIVELY CODING</sub>
 </td>
 </tr>
 </table>
 
-### 🎵 **Currently Playing**
-
-<a href="https://open.spotify.com/user/spotify">
-  <img src="https://spotify-github-profile.kittinanx.com/api/spotify-playing" alt="Spotify Now Playing" width="350" />
-</a>
-
-<!-- Fallback if Spotify widget doesn't work -->
 <br>
-<img src="https://img.shields.io/badge/🎵%20Now%20Playing-Love%20Story%20by%20Indila-1DB954?style=flat&logo=spotify&logoColor=white" alt="Currently Playing" />
+
+### 🎵 **Audio Stream**
+
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Musical%20note/3D/musical_note_3d.png" alt="Music" width="40" />
+<br>
+<img src="https://spotify-github-profile.kittinanx.com/api/spotify-playing" alt="Spotify Now Playing" width="350" />
 
 </div>
 
