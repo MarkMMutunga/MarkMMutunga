@@ -15,9 +15,9 @@
 
 ```javascript
 const markMutunga = {
-    location: "🌍 Kenya",
+    location: "🌍 Nairobi, Kenya",
     currentFocus: "Kopo 1.0 ",
-    mission: "Making he future smarter, and more inclusive",
+    mission: "Making the future smarter, and more inclusive",
     superpower: "📸 Photographic memory + Creative problem-solving",
     workingOn: ["React Applications", "Digital Safety Solutions", "UI/UX Innovation"],
     collaboration: "Always open for innovative projects! 🚀"
